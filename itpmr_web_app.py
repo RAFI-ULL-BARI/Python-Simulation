@@ -119,4 +119,4 @@ else:
     st.warning("Needs Optimization – Efficiency Improvements Required ⚠️")
 
 st.markdown("---")
-st.caption("Developed by Team iTPMR | NASA Space Apps Challenge 2025 | Powered by Python & Streamlit")
+st.caption("Developed by Team Astralynx | NASA Space Apps Challenge 2025 | Powered by Python & Streamlit")
